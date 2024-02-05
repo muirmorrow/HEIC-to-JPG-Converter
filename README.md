@@ -18,7 +18,7 @@ Usage
 
 Credits
 
-ImageMagick: Copyright (C) 1999-2024 ImageMagick Studio LLC.
+Copyright (C) 2024 Muirmorrow Ltd.
    Licensed under the ImageMagick License (the "License"); you may not use
    this file except in compliance with the License.  You may obtain a copy
    of the License at
