@@ -8,7 +8,7 @@ Installation
 1. Download the latest release of HEIC to JPG Converter
 2. Open a CMD Prompt Window or PowerShell Window in the downloaded folder
 3. Run the command: **ImageMagick-7.1.1-27-Q16-HDRI-x64-dll.exe /SILENT /legacy_support**
-4. Run the command: **cd C:\Program Files && mkdir "HEIC Image Converter Tools"**
+4. Run the HEIC to JPG Converter.exe application
 
 Usage
 
